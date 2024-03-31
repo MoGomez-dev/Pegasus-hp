@@ -1,0 +1,96 @@
+import kaonasi from './img/kaonasi.png'
+
+
+export const data = [
+    {
+        name: '南谷 真治',
+        position: '監督',
+        introduction: 'とりあえず監督',
+        img: kaonasi,
+        number: 30,
+    },
+    {
+        name: '柴田 康喜',
+        position: 'CF',
+        introduction: '野球大好き男の子',
+        img: kaonasi,
+        number: 1,
+    },
+    {
+        name: '犬飼 貴大',
+        position: 'P',
+        introduction: '二刀流',
+        img: kaonasi,
+        number: 4,
+    },
+    {
+        name: '浅野 善晴',
+        position: 'SS,LF',
+        introduction: '両打オールラウンダー',
+        img: kaonasi,
+        number: 5,
+    },
+    {
+        name: '吉川 元就',
+        position: 'SS, 2B',
+        introduction: '期待の吉川ジュニア',
+        img: kaonasi,
+        number: 6,
+    },
+    {
+        name: '岡田 卓弥',
+        position: 'C,SS,3B ',
+        introduction: '来季は4番？',
+        img: kaonasi,
+        number: 7,
+    },
+    {
+        name: '小林 丈留',
+        position: 'LF,CF',
+        introduction: '2023最終戦で初ホームラン',
+        img: kaonasi,
+        number: 8,
+    },
+    {
+        name: '浅井 俊安',
+        position: 'LF,RF',
+        introduction: 'チャンス◯',
+        img: kaonasi,
+        number: 9,
+    },
+    {
+        name: '岡崎 広樹',
+        position: 'P,1B',
+        introduction: 'ペガサス支えるエース',
+        img: kaonasi,
+        number: 10,
+    },
+    {
+        name: '長瀬 正和',
+        position: '3B',
+        introduction: 'マルチ男',
+        img: kaonasi,
+        number: 12,
+    },
+    {
+        name: '山崎 太地',
+        position: 'C,1B',
+        introduction: '打てる捕手',
+        img: kaonasi,
+        number: 17,
+    },
+    {
+        name: '増田 寛太',
+        position: 'P,LF',
+        introduction: '頼れる1番バッター',
+        img: kaonasi,
+        number: 19,
+    },
+    {
+        name: '富田 雅人',
+        position: 'P,LF',
+        introduction: '若さ100%',
+        img: kaonasi,
+        number: 22,
+    },
+   ]
