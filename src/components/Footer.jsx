@@ -12,7 +12,7 @@ export const Footer = () => {
         <Link to='/scorebook/' >スコアブック</Link>
         <Link to='/schedule/' >スケジュール</Link>
         <Link to='/admin/'>管理者</Link>
-        <Link to='https://github.com/MoGomez-dev/Todo-React-Firebase' ><FaGithub /></Link>
+        <Link to='https://github.com/MoGomez-dev/Pegasus-hp/' ><FaGithub /></Link>
       </FooterWrapper>
     </FooterContainer>
   )
